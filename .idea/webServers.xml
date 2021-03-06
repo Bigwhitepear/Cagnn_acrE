@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="506428e5-9fb6-485a-acdd-f6d8cc0b548d" name="175" url="http://219.216.64.175">
+        <fileTransfer host="219.216.64.175" port="22" rootFolder="/data0/lijuchen" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6ad8d40b-ac1c-4894-8328-f41d73db235c" name="77" url="http://202.199.6.77">
+        <fileTransfer host="202.199.6.77" port="22" rootFolder="/data0/lijuchen" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
